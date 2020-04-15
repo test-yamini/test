@@ -4,5 +4,6 @@ render(){
 return{
 hi
 hello
+namaste
 }
 }
