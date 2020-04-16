@@ -3,5 +3,7 @@ class App extends React.Component{
 render(){
 return{
 hi
+hello
+Lang:namaste
 }
 }
