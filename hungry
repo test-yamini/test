@@ -4,6 +4,6 @@ render(){
 return{
 hi
 hello
-namaste
+Lang:namaste
 }
 }
